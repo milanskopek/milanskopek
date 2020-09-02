@@ -1,0 +1,51 @@
+body {
+    background-image: url(topography/topography.png);
+}
+
+.navigatorBackground {
+    background-color: #333333;
+    width: 100%;
+}
+
+.navbar a {
+    color: #ff0099;
+    padding: 5px;
+}
+
+.navbar {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.links {
+    float: right;
+    margin-top: 8px;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Noto Serif', serif;
+}
+
+.mainInfo {
+    margin-left: 120px;
+    margin-right: 110px;
+}
+
+.separator {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-style: bolder;
+}
+
+p {
+    font-size: large;
+    font-family: Helvetica, sans-serif;
+    font-style: bolder;
+}
